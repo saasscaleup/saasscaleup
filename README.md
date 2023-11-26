@@ -9,9 +9,9 @@
 - [nodejs-ssl-server](https://github.com/saasscaleup/nodejs-ssl-server): How to deploy nodejs app to AWS EC2 Ubuntu 22 Server with free SSL and Nginx reverse proxy. Here's the [YouTube Video](https://youtu.be/yhiuV6cqkNs).
 - [laravel-telegram-chatbot](https://github.com/saasscaleup/laravel-telegram-chatbot): How to build Telegram AI ChatBot That Detect Text in images. Here's the [YouTube Video](https://youtu.be/4KKAX8ZYTbk).
 
-### Here are main technologies we are teaches and work with:
+### Here are some of the technologies we are teaches and work with:
 
-AWS, GitHub Actions, Docker, Python, Node.js, PHP, Vue.js, GitHub, BitBucket, OpenAI, AWS, Laravel, Express.js, FastAPI, Streamlit
+AWS, GitHub Actions, Docker, Python, Node.js, PHP, Vue.js, GitHub, BitBucket, OpenAI, Laravel, Express.js, FastAPI, Streamlit ...
 
 ---
 

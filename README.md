@@ -11,14 +11,7 @@
 
 ### Here are main technologies we are teaches and work with:
 
-- CLOUD: AWS ...
-- OS: Linux, MacOS ...
-- DEVOPS: GitHub Actions, AWS, Docker
-- BACKEND: Python, Node.js, PHP
-- FRONTEND: Vue.js
-- VCS: GitHub, BitBucket
-- AI: OpenAI, AWS
-- FRAMEWORK: Laravel, Express.js, FastAPI, Streamlit
+AWS, GitHub Actions, Docker, Python, Node.js, PHP, Vue.js, GitHub, BitBucket, OpenAI, AWS, Laravel, Express.js, FastAPI, Streamlit
 
 ---
 

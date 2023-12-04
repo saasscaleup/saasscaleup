@@ -13,6 +13,12 @@
 
 AWS, GitHub Actions, Docker, Python, Node.js, PHP, Vue.js, GitHub, BitBucket, OpenAI, Laravel, Express.js, FastAPI, Streamlit ...
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saasscaleup&langs_count=7&hide=python&layout=compact&theme=radical)](https://github.com/saasscaleup/github-readme-stats)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=saasscaleup&count_private=true&show_icons=true&theme=radical)
+-->
+
 ---
 
 Thanks for visiting! ❤️   

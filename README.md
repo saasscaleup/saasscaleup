@@ -4,6 +4,7 @@
 **saasscaleup** is a YouTube channel that teaches developers how to build 👷‍♂️, deploy 🚀, and monetize 💲 successful software as a service (SaaS) applications in AWS. Support saasscaleup's open source work
 
 ### Here are some of our open-source projects:
+- [laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector): 🚀 Boost Your Laravel Performance with Real-Time N+1 Query Detection & Resolution! 🛠️
 - [laravel-log-alarm](https://github.com/saasscaleup/laravel-log-alarm): Real-time Log Monitoring and Error Detection for Your Laravel Applications
 - [laravel-stream-log](https://github.com/saasscaleup/laravel-stream-log): Easily stream your Laravel application logs to the frontend in real-time using server-sent event (SSE)
 - [god-chatgpt](https://github.com/saasscaleup/personal-chatgpt/tree/streamlit): Personal ChatGPT (Streamlit Branch) Allow you to run on your browser the Power of ChatGPT with your PERSONAL DATA, Internet Access and Private Memory using LangChain and Streamlit. Here's the [YouTube Video](https://youtu.be/us1l14STMX4).

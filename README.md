@@ -7,8 +7,10 @@
 - [laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector): 🚀 Boost Your Laravel Performance with Real-Time N+1 Query Detection & Resolution! 🛠️
 - [laravel-log-alarm](https://github.com/saasscaleup/laravel-log-alarm): Real-time Log Monitoring and Error Detection for Your Laravel Applications
 - [laravel-stream-log](https://github.com/saasscaleup/laravel-stream-log): Easily stream your Laravel application logs to the frontend in real-time using server-sent event (SSE)
-- [god-chatgpt](https://github.com/saasscaleup/personal-chatgpt/tree/streamlit): Personal ChatGPT (Streamlit Branch) Allow you to run on your browser the Power of ChatGPT with your PERSONAL DATA, Internet Access and Private Memory using LangChain and Streamlit. Here's the [YouTube Video](https://youtu.be/us1l14STMX4).
+- [nodejs-aws-codedeploy-pipeline](https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline): Easily set ci/cd for nodejs app with aws codeDeploy and aws codePipeline [YouTube Video](https://www.youtube.com/watch?v=4UoAdn4DtdY)
+- [github-action](https://github.com/saasscaleup/nodejs-ssl-server/tree/feature/github-action): Easily set GitHub Actions to Automate Node.js Deployment to AWS [YouTube Video](https://www.youtube.com/watch?v=EUIU2Gn0fXQ)
 - [nodejs-ssl-server](https://github.com/saasscaleup/nodejs-ssl-server): How to deploy nodejs app to AWS EC2 Ubuntu 22 Server with free SSL and Nginx reverse proxy. Here's the [YouTube Video](https://youtu.be/yhiuV6cqkNs).
+- [god-chatgpt](https://github.com/saasscaleup/personal-chatgpt/tree/streamlit): Personal ChatGPT (Streamlit Branch) Allow you to run on your browser the Power of ChatGPT with your PERSONAL DATA, Internet Access and Private Memory using LangChain and Streamlit(Python). Here's the [YouTube Video](https://youtu.be/us1l14STMX4).
 - [laravel-telegram-chatbot](https://github.com/saasscaleup/laravel-telegram-chatbot): How to build Telegram AI ChatBot That Detect Text in images. Here's the [YouTube Video](https://youtu.be/4KKAX8ZYTbk).
 
 ### Here are some of the technologies we are teaches and work with:
